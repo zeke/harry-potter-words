@@ -7,6 +7,8 @@ const maleFirstNames = require('datasets-male-first-names-en')
   .map(name => name.toLowerCase())
 const femaleFirstNames = require('datasets-female-first-names-en')
   .map(name => name.toLowerCase())
+const cityNames = require('all-the-cities').map(city => city.name)
+const countryNames = require('country-list')().getNames()
 
 const text = fs.readFileSync(path.join(__dirname, 'phoenix.txt'), 'utf8')
 
@@ -27,6 +29,8 @@ const words = chain(text.split(/\s/))
   .filter(word => !englishWords.includes(word.toLowerCase()))
   .filter(word => !maleFirstNames.includes(word.toLowerCase()))
   .filter(word => !femaleFirstNames.includes(word.toLowerCase()))
+  .filter(word => !cityNames.includes(word.toLowerCase()))
+  .filter(word => !countryNames.includes(word.toLowerCase()))
   .sort((a,b) => a.localeCompare(b))
   .value()
 
