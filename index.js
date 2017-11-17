@@ -2,13 +2,17 @@ const fs = require('fs')
 const path = require('path')
 const {chain} = require('lodash')
 
+// Word blacklists
 const englishWords = require('an-array-of-english-words')
 const maleFirstNames = require('datasets-male-first-names-en')
   .map(name => name.toLowerCase())
 const femaleFirstNames = require('datasets-female-first-names-en')
   .map(name => name.toLowerCase())
-const cityNames = require('all-the-cities').map(city => city.name)
-const countryNames = require('country-list')().getNames()
+const cityNames = require('all-the-cities')
+  .map(city => city.name.toLowerCase())
+const countryNames = require('country-list')()
+  .getNames()
+  .map(country => country.toLowerCase())
 
 const text = fs.readFileSync(path.join(__dirname, 'phoenix.txt'), 'utf8')
 

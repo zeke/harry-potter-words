@@ -1,6 +1,6 @@
 # Harry Potter Words
 
-> 654 terms you won't find in a muggle dictionary.
+> 610 terms you won't find in a muggle dictionary.
 
 - aaaaaaaaargh
 - Aaaaaah
@@ -46,19 +46,14 @@
 - Bagnold
 - Banges
 - barklike
-- Barnsley
 - Baruffio
 - BatBogey
 - beetlelike
 - Bellatrix
 - bered
-- Berryville
 - Bethnal
 - Binns
-- Biola
-- Birmingham
 - blackwalled
-- Bletchley
 - blibbering
 - Blibbering
 - Blisterpod
@@ -71,7 +66,6 @@
 - Bowtruckles
 - Boyship
 - BPROACHES
-- braine
 - Britain
 - British
 - Brutus
@@ -84,12 +78,8 @@
 - Cadogan
 - Callisto
 - Caradoc
-- Carmichael
 - Cho
 - CHO
-- Christmas
-- CHRISTMAS
-- Clapham
 - Cleansweep
 - Cleansweeps
 - cleverlooking
@@ -117,12 +107,9 @@
 - CurseBreakers
 - dai
 - Dai
-- dake
 - darkgreen
 - dat
 - Dat
-- Dawlish
-- Dearborn
 - December
 - Dedalus
 - Delacour
@@ -141,9 +128,7 @@
 - Diddykins
 - didja
 - Diffindo
-- Diggle
 - Diggory
-- Dijon
 - Dilys
 - DILYS
 - Dippet
@@ -161,15 +146,12 @@
 - Dungbomb
 - Dungbombs
 - Durmstrang
-- Dursley
 - Dursleys
 - dweamed
 - Edgecombe
 - Eeenglish
 - eemprove
 - eentup
-- eg
-- Egypt
 - Elladora
 - Elphias
 - emeraldgreen
@@ -178,8 +160,6 @@
 - Euan
 - Europa
 - Evanesco
-- Evans
-- EVANS
 - Expecto
 - EXPECTO
 - Expelliarmious
@@ -190,7 +170,6 @@
 - Fawkes
 - February
 - fellytone
-- Fenwick
 - fessor
 - fidgetings
 - fifteenthcentury
@@ -202,11 +181,9 @@
 - Finnigan
 - Firebolt
 - firelegs
-- Firenze
 - firewhisky
 - Flagrate
 - Flitterbloom
-- Flitwick
 - flobberworm
 - flobberworms
 - Floo
@@ -215,7 +192,6 @@
 - fortyten
 - fourthyear
 - fplrohfkd
-- France
 - Friday
 - frizzyhaired
 - Frobisher
@@ -237,7 +213,6 @@
 - Grawpy
 - GRAWPY
 - Greengrass
-- Greenland
 - Grimmauld
 - GRIMMAULD
 - Gringotts
@@ -261,7 +236,6 @@
 - heliopaths
 - Heptomology
 - Herbione
-- Hermes
 - highpitched
 - Hippocrates
 - Hmmm
@@ -288,7 +262,6 @@
 - Inc
 - Incarcerous
 - inspec
-- Ireland
 - Irish
 - ISBN
 - ix
@@ -298,19 +271,16 @@
 - jewelbright
 - Jugson
 - July
-- Jupiter
 - Kacky
 - Karkus
 - Kedavra
 - KEDAVRA
-- Kenmare
 - Kirke
 - klaxonlike
 - kneazle
 - kneazles
 - Kreacher
 - KREACHER
-- Krum
 - kunnit
 - Lachlan
 - Ladislaw
@@ -327,9 +297,6 @@
 - Leviosa
 - LHE
 - LHIM
-- Liechtenstein
-- Lockhart
-- London
 - Longbottom
 - Longbottoms
 - longfingered
@@ -365,7 +332,6 @@
 - mimbletonia
 - Mimbulus
 - Ministryapproved
-- Minsk
 - Mmm
 - Monday
 - mousyhaired
@@ -397,7 +363,6 @@
 - Noooooo
 - NOOOOOOO
 - NOOOOOOOOO
-- Nottingham
 - nuffink
 - Nymphadora
 - Obliviator
@@ -433,13 +398,11 @@
 - plantes
 - Pluto
 - Podmore
-- Poland
 - Polkiss
 - Polyjuice
 - Pomfrey
 - popkin
 - Portkey
-- Portree
 - Portus
 - potionmaking
 - Prewett
@@ -476,8 +439,6 @@
 - Righ
 - righd
 - Rodolphus
-- Romania
-- Ronan
 - Rookwood
 - rowling
 - Rowling
@@ -547,10 +508,8 @@
 - stup
 - STUP
 - STUPEF
-- Sturgis
 - Summerby
 - Sunday
-- Sweden
 - tague
 - Tarantallegra
 - taur
@@ -616,7 +575,6 @@
 - wandless
 - Wandless
 - warnin
-- Warrington
 - Wartcap
 - watchwizard
 - Weasley
@@ -634,7 +592,6 @@
 - Whizbees
 - Whozair
 - wid
-- Williamson
 - Wiltshire
 - Wimbledon
 - Wingardium
@@ -652,7 +609,6 @@
 - yerself
 - yerselves
 - Yoooou
-- Yorkshire
 - Zamojski
 - Zeller
 - Zonko
